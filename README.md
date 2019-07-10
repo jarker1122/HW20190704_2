@@ -1,2 +1,3 @@
 # HW20190704_2
-# 1iu3h1io3h1k3h
+# result
+![alt text](http://url/to/AlexNetRUN.jpg)
